@@ -140,11 +140,6 @@ _No public repositories yet. Your first project will show up here automatically.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=denuvan-akash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb&border_radius=16" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denuvan-akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e5e7eb&border_radius=16" alt="top languages" />
-
-<br/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=denuvan-akash&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&border_radius=16" alt="streak" />
 
 </div>
@@ -160,26 +155,6 @@ _No public repositories yet. Your first project will show up here automatically.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denuvan-akash/denuvan-akash/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/denuvan-akash/denuvan-akash/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=denuvan-akash&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=16" width="100%" alt="activity graph" />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=denuvan-akash&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -204,5 +179,5 @@ _No public repositories yet. Your first project will show up here automatically.
 <img src="./assets/footer-wave.svg" width="100%" alt="" />
 
 <div align="center">
-  <sub>Made with ❤️ by <b>Denuwan Akash</b> • <b>mathra Quotes</b> &nbsp;|&nbsp; 🤖 auto-updated 2026-10-29 17:06 (UTC+05:30)</sub>
+  <sub>Made with ❤️ by <b>Denuwan Akash</b> • <b>mathra Quotes</b> &nbsp;|&nbsp; 🤖 auto-updated 2026-10-29 17:09 (UTC+05:30)</sub>
 </div>
