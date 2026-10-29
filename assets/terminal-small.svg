@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="320" viewBox="0 0 620 320" role="img" aria-label="Animated terminal">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1b4b"/><stop offset="1" stop-color="#0f0c29"/></linearGradient>
+    <filter id="sh"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#8b5cf6" flood-opacity="0.35"/></filter>
+    <clipPath id="cc0"><rect x="36" y="70" height="30" width="0"><animate attributeName="width" values="0;0;77.6;77.6;0" keyTimes="0.0000;0.0444;0.0778;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="co0"><rect x="36" y="96" height="30" width="0"><animate attributeName="width" values="0;0;320.1;320.1;0" keyTimes="0.0000;0.0944;0.1494;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cc1"><rect x="36" y="122" height="30" width="0"><animate attributeName="width" values="0;0;155.2;155.2;0" keyTimes="0.0000;0.2778;0.3322;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="co1"><rect x="36" y="148" height="30" width="0"><animate attributeName="width" values="0;0;174.6;174.6;0" keyTimes="0.0000;0.3489;0.3822;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cc2"><rect x="36" y="174" height="30" width="0"><animate attributeName="width" values="0;0;145.5;145.5;0" keyTimes="0.0000;0.5111;0.5617;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="co2"><rect x="36" y="200" height="30" width="0"><animate attributeName="width" values="0;0;436.5;436.5;0" keyTimes="0.0000;0.5783;0.6533;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cc3"><rect x="36" y="226" height="30" width="0"><animate attributeName="width" values="0;0;145.5;145.5;0" keyTimes="0.0000;0.7444;0.7950;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="co3"><rect x="36" y="252" height="30" width="0"><animate attributeName="width" values="0;0;281.3;281.3;0" keyTimes="0.0000;0.8117;0.8600;0.9722;1.0000" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect x="8" y="8" width="604" height="304" rx="16" fill="url(#tb)" stroke="#a78bfa" stroke-opacity="0.45" filter="url(#sh)"/>
+  <rect x="8" y="8" width="604" height="38" rx="16" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="34" cy="27" r="6.5" fill="#ff5f56"/><circle cx="56" cy="27" r="6.5" fill="#ffbd2e"/><circle cx="78" cy="27" r="6.5" fill="#27c93f"/>
+  <text x="310.0" y="32" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#c4b5fd" opacity="0.8">denuwan@colombo: ~</text>
+  <g clip-path="url(#cc0)"><text x="36" y="92" font-family="'Courier New',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#f0abfc">$ </tspan><tspan fill="#e9d5ff">whoami</tspan></text></g>
+  <g clip-path="url(#co0)"><text x="36" y="118" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#86efac" xml:space="preserve">Denuwan Akash | Software Engineer</text></g>
+  <g clip-path="url(#cc1)"><text x="36" y="144" font-family="'Courier New',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#f0abfc">$ </tspan><tspan fill="#e9d5ff">echo $LOCATION</tspan></text></g>
+  <g clip-path="url(#co1)"><text x="36" y="170" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#fbcfe8" xml:space="preserve">Colombo, Sri Lanka</text></g>
+  <g clip-path="url(#cc2)"><text x="36" y="196" font-family="'Courier New',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#f0abfc">$ </tspan><tspan fill="#e9d5ff">cat stack.txt</tspan></text></g>
+  <g clip-path="url(#co2)"><text x="36" y="222" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#86efac" xml:space="preserve">Kotlin | Java | Node.js | Three.js | Supabase</text></g>
+  <g clip-path="url(#cc3)"><text x="36" y="248" font-family="'Courier New',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#f0abfc">$ </tspan><tspan fill="#e9d5ff">echo $MISSION</tspan></text></g>
+  <g clip-path="url(#co3)"><text x="36" y="274" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#86efac" xml:space="preserve">Build things that feel alive.</text></g>
+  <rect x="36" y="282" width="10" height="18" fill="#c4b5fd"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

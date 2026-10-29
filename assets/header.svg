@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Denuwan Akash - Software Engineer and Android Developer based in Colombo, Sri Lanka">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#1a1040;#0f0c29" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#4c1d95;#302b63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#1e1b4b;#24243e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f0abfc"/>
+      <animate attributeName="x1" values="-1;1;-1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
+    <clipPath id="round"><rect width="1000" height="300" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+
+    <!-- drifting glow orbs -->
+    <circle cx="150" cy="80" r="170" fill="url(#glow)">
+      <animate attributeName="cx" values="150;260;150" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;150;80" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="230" r="190" fill="url(#glow)">
+      <animate attributeName="cx" values="860;740;860" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="230;150;230" dur="14s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- twinkling stars -->
+    <g fill="#ffffff">
+      <circle cx="60" cy="40" r="1.6"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="140" cy="250" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="260" cy="30" r="1.4"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <circle cx="330" cy="270" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="480" cy="22" r="1.2"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="275" r="1.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.3s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="36" r="1.7"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="790" cy="262" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="48" r="1.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="965" cy="170" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="0.9s" repeatCount="indefinite"/></circle>
+      <circle cx="30" cy="160" r="1.3"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.7s" begin="1.4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- binary code rain -->
+    <g>
+      <text x="30" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.25"><tspan x="30" dy="15">1</tspan><tspan x="30" dy="15">1</tspan><tspan x="30" dy="15">0</tspan><tspan x="30" dy="15">0</tspan><tspan x="30" dy="15">1</tspan><tspan x="30" dy="15">0</tspan><tspan x="30" dy="15">0</tspan><tspan x="30" dy="15">1</tspan><tspan x="30" dy="15">1</tspan><tspan x="30" dy="15">0</tspan><tspan x="30" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -175;0 310" dur="10.2s" begin="5.3s" repeatCount="indefinite"/></text>
+      <text x="95" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.23"><tspan x="95" dy="15">1</tspan><tspan x="95" dy="15">1</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">0</tspan><tspan x="95" dy="15">1</tspan><tspan x="95" dy="15">1</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -190;0 310" dur="9.6s" begin="5.1s" repeatCount="indefinite"/></text>
+      <text x="190" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.22"><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">0</tspan><tspan x="190" dy="15">0</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">0</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">0</tspan><tspan x="190" dy="15">1</tspan><tspan x="190" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -205;0 310" dur="7.4s" begin="4.6s" repeatCount="indefinite"/></text>
+      <text x="255" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.19"><tspan x="255" dy="15">1</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">1</tspan><tspan x="255" dy="15">1</tspan><tspan x="255" dy="15">1</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -160;0 310" dur="9.5s" begin="3.4s" repeatCount="indefinite"/></text>
+      <text x="330" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.26"><tspan x="330" dy="15">1</tspan><tspan x="330" dy="15">1</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">1</tspan><tspan x="330" dy="15">1</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">1</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">0</tspan><tspan x="330" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -205;0 310" dur="9.8s" begin="2.9s" repeatCount="indefinite"/></text>
+      <text x="400" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.30"><tspan x="400" dy="15">1</tspan><tspan x="400" dy="15">0</tspan><tspan x="400" dy="15">0</tspan><tspan x="400" dy="15">1</tspan><tspan x="400" dy="15">1</tspan><tspan x="400" dy="15">0</tspan><tspan x="400" dy="15">1</tspan><tspan x="400" dy="15">1</tspan><tspan x="400" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -145;0 310" dur="7.0s" begin="5.2s" repeatCount="indefinite"/></text>
+      <text x="600" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.20"><tspan x="600" dy="15">1</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">1</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">0</tspan><tspan x="600" dy="15">1</tspan><tspan x="600" dy="15">1</tspan><tspan x="600" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -190;0 310" dur="11.6s" begin="2.0s" repeatCount="indefinite"/></text>
+      <text x="670" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.28"><tspan x="670" dy="15">0</tspan><tspan x="670" dy="15">0</tspan><tspan x="670" dy="15">0</tspan><tspan x="670" dy="15">0</tspan><tspan x="670" dy="15">0</tspan><tspan x="670" dy="15">1</tspan><tspan x="670" dy="15">1</tspan><tspan x="670" dy="15">1</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -130;0 310" dur="7.8s" begin="3.5s" repeatCount="indefinite"/></text>
+      <text x="745" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.23"><tspan x="745" dy="15">1</tspan><tspan x="745" dy="15">0</tspan><tspan x="745" dy="15">0</tspan><tspan x="745" dy="15">1</tspan><tspan x="745" dy="15">0</tspan><tspan x="745" dy="15">0</tspan><tspan x="745" dy="15">0</tspan><tspan x="745" dy="15">0</tspan><tspan x="745" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -145;0 310" dur="11.1s" begin="2.3s" repeatCount="indefinite"/></text>
+      <text x="810" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.24"><tspan x="810" dy="15">1</tspan><tspan x="810" dy="15">0</tspan><tspan x="810" dy="15">0</tspan><tspan x="810" dy="15">0</tspan><tspan x="810" dy="15">0</tspan><tspan x="810" dy="15">1</tspan><tspan x="810" dy="15">0</tspan><tspan x="810" dy="15">1</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -130;0 310" dur="8.5s" begin="4.9s" repeatCount="indefinite"/></text>
+      <text x="905" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.19"><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">1</tspan><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">1</tspan><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">0</tspan><tspan x="905" dy="15">0</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -160;0 310" dur="7.4s" begin="2.5s" repeatCount="indefinite"/></text>
+      <text x="965" y="0" font-family="'Courier New',monospace" font-size="13" fill="#a78bfa" opacity="0.26"><tspan x="965" dy="15">0</tspan><tspan x="965" dy="15">1</tspan><tspan x="965" dy="15">1</tspan><tspan x="965" dy="15">0</tspan><tspan x="965" dy="15">0</tspan><tspan x="965" dy="15">1</tspan><tspan x="965" dy="15">0</tspan><tspan x="965" dy="15">1</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -130;0 310" dur="12.9s" begin="3.9s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- rising particles -->
+    <g fill="#c4b5fd" opacity="0.7">
+      <circle cx="200" cy="300" r="3"><animate attributeName="cy" values="300;-10" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="420" cy="300" r="2"><animate attributeName="cy" values="300;-10" dur="9s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="9s" begin="2s" repeatCount="indefinite"/></circle>
+      <circle cx="610" cy="300" r="3.5"><animate attributeName="cy" values="300;-10" dur="8s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="8s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="300" r="2.5"><animate attributeName="cy" values="300;-10" dur="10s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="10s" begin="3s" repeatCount="indefinite"/></circle>
+      <circle cx="90" cy="300" r="2"><animate attributeName="cy" values="300;-10" dur="11s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="11s" begin="4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- orbiting rings (left) -->
+    <g transform="translate(110 150)" fill="none" stroke="#a78bfa">
+      <circle r="52" stroke-opacity="0.35" stroke-dasharray="4 8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="76" stroke-opacity="0.25" stroke-dasharray="2 10">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="26s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="30" stroke-opacity="0.6" stroke-width="2">
+        <animate attributeName="r" values="28;34;28" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#f0abfc" stroke="none">
+        <animateMotion dur="6s" repeatCount="indefinite" path="M52,0 A52,52 0 1,1 -52,0 A52,52 0 1,1 52,0"/>
+      </circle>
+    </g>
+
+    <!-- orbiting rings (right) -->
+    <g transform="translate(890 150)" fill="none" stroke="#f0abfc">
+      <circle r="52" stroke-opacity="0.35" stroke-dasharray="4 8">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="76" stroke-opacity="0.25" stroke-dasharray="2 10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="30" stroke-opacity="0.6" stroke-width="2">
+        <animate attributeName="r" values="34;28;34" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#a78bfa" stroke="none">
+        <animateMotion dur="7s" repeatCount="indefinite" path="M52,0 A52,52 0 1,0 -52,0 A52,52 0 1,0 52,0"/>
+      </circle>
+    </g>
+
+    <!-- android-ish robot icon in the left ring -->
+    <g transform="translate(110 150)" fill="#c4b5fd">
+      <path d="M-16,4 a16,16 0 0 1 32,0 z"/>
+      <circle cx="-7" cy="-3" r="1.8" fill="#0f0c29"/>
+      <circle cx="7" cy="-3" r="1.8" fill="#0f0c29"/>
+      <rect x="-16" y="7" width="32" height="14" rx="3"/>
+      <path d="M-8,-12 l-4,-6 M8,-12 l4,-6" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" fill="none"/>
+    </g>
+
+    <!-- code brackets in the right ring -->
+    <g transform="translate(890 150)" fill="none" stroke="#f0abfc" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-8,-14 L-22,0 L-8,14"/>
+      <path d="M8,-14 L22,0 L8,14"/>
+      <path d="M3,-16 L-3,16" stroke-width="3.5"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- name -->
+    <text x="500" y="136" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="2" fill="#8b5cf6" filter="url(#blur)" opacity="0.55">DENUWAN AKASH</text>
+    <text x="500" y="136" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="2" fill="url(#name)">DENUWAN AKASH
+      <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    </text>
+
+    <!-- glitch flicker (brief RGB split every few seconds) -->
+    <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="2" text-anchor="middle">
+      <text x="500" y="136" fill="#22d3ee" opacity="0">DENUWAN AKASH
+        <animate attributeName="opacity" values="0;0;0.75;0;0.6;0;0" keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="500;500;494;500;497;500;500" keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" dur="6s" repeatCount="indefinite"/>
+      </text>
+      <text x="500" y="136" fill="#f472b6" opacity="0">DENUWAN AKASH
+        <animate attributeName="opacity" values="0;0;0.75;0;0.6;0;0" keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="500;500;507;500;504;500;500" keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" dur="6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- greeting -->
+    <text x="500" y="64" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="9" fill="#f0abfc" opacity="0">HI, I'M
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.2s" fill="freeze"/>
+      <animate attributeName="y" values="74;64" dur="1s" begin="0.2s" fill="freeze"/>
+    </text>
+
+    <!-- subtitle -->
+    <text x="500" y="182" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="500" letter-spacing="4" fill="#ddd6fe">
+      SOFTWARE ENGINEER  •  ANDROID DEVELOPER
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="2s" fill="freeze"/>
+    </text>
+
+    <!-- brand pill -->
+    <g transform="translate(392 232)">
+      <rect x="-100" y="-20" width="200" height="40" rx="20" fill="#ffffff" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.7">
+        <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <text y="6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#f5f3ff">mathra Quotes</text>
+    </g>
+
+    <!-- location pill with a bouncing pin -->
+    <g transform="translate(622 232)">
+      <rect x="-128" y="-20" width="256" height="40" rx="20" fill="#ffffff" fill-opacity="0.08" stroke="#f0abfc" stroke-opacity="0.7">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(-100 0)">
+        <ellipse cx="0" cy="12" rx="6" ry="2" fill="#f0abfc" opacity="0.35">
+          <animate attributeName="rx" values="6;3.5;6" dur="1.4s" repeatCount="indefinite"/>
+        </ellipse>
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="1.4s" repeatCount="indefinite"/>
+          <path d="M0,10 C-9,0 -9,-11 0,-11 C9,-11 9,0 0,10 Z" fill="#f0abfc"/>
+          <circle cx="0" cy="-4" r="3.2" fill="#1a1440"/>
+        </g>
+      </g>
+      <text x="12" y="6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="2" fill="#f5f3ff">Colombo, Sri Lanka</text>
+    </g>
+
+    <!-- scanning light beam -->
+    <rect x="-200" y="0" width="120" height="300" fill="#ffffff" opacity="0.06" transform="skewX(-20)">
+      <animate attributeName="x" values="-200;1100" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="22" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/>
+</svg>
