@@ -17,9 +17,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6d28d9&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=4c1d95&logo=github" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=denuvan-akash&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/denuvan-akash?label=Followers&style=for-the-badge&color=6d28d9&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/denuvan-akash?label=Stars&style=for-the-badge&color=4c1d95&logo=github" alt="stars" />
 <a href="https://www.tiktok.com/@mathra_quotes_1"><img src="https://img.shields.io/badge/TikTok-%40mathra__quotes__1-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
 <br/><br/>
@@ -132,7 +132,7 @@ Themed community sites with member cards, hidden admin panels and **Supabase** b
 
 ## 🔥 &nbsp;Recently Updated <sub>(auto-updated daily)</sub>
 
-_Repository list will appear after the next automatic update._
+_No public repositories yet. Your first project will show up here automatically._ ✨
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -140,12 +140,12 @@ _Repository list will appear after the next automatic update._
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb&border_radius=16" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e5e7eb&border_radius=16" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=denuvan-akash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb&border_radius=16" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denuvan-akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e5e7eb&border_radius=16" alt="top languages" />
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&border_radius=16" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=denuvan-akash&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&border_radius=16" alt="streak" />
 
 </div>
 
@@ -156,9 +156,9 @@ _Repository list will appear after the next automatic update._
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denuvan-akash/denuvan-akash/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denuvan-akash/denuvan-akash/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/denuvan-akash/denuvan-akash/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -169,7 +169,7 @@ _Repository list will appear after the next automatic update._
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=16" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=denuvan-akash&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=16" width="100%" alt="activity graph" />
 
 </div>
 
@@ -179,7 +179,7 @@ _Repository list will appear after the next automatic update._
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=denuvan-akash&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -191,7 +191,7 @@ _Repository list will appear after the next automatic update._
 
 <a href="https://www.tiktok.com/@mathra_quotes_1"><img src="./assets/card-tiktok.svg" width="320" alt="TikTok @mathra_quotes_1" /></a>
 <a href="https://wa.me/94783756055"><img src="./assets/card-whatsapp.svg" width="320" alt="WhatsApp 078 375 6055" /></a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="./assets/card-github.svg" width="320" alt="GitHub repositories" /></a>
+<a href="https://github.com/denuvan-akash?tab=repositories"><img src="./assets/card-github.svg" width="320" alt="GitHub repositories" /></a>
 
 <br/><br/>
 
@@ -204,5 +204,5 @@ _Repository list will appear after the next automatic update._
 <img src="./assets/footer-wave.svg" width="100%" alt="" />
 
 <div align="center">
-  <sub>Made with ❤️ by <b>Denuwan Akash</b> • <b>mathra Quotes</b> &nbsp;|&nbsp; 🤖 auto-updated 2026-10-29 16:30 (UTC+05:30)</sub>
+  <sub>Made with ❤️ by <b>Denuwan Akash</b> • <b>mathra Quotes</b> &nbsp;|&nbsp; 🤖 auto-updated 2026-10-29 17:06 (UTC+05:30)</sub>
 </div>
