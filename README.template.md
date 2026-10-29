@@ -83,7 +83,13 @@ object DenuwanAkash {
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🚀 &nbsp;Featured Projects
+## 🚀 &nbsp;What I Build
+
+<div align="center">
+  <img src="./assets/what-i-build.svg" width="100%" alt="What I build: Android keyboards, WhatsApp bots, 3D web experiences" />
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -134,6 +140,39 @@ Themed community sites with member cards, hidden admin panels and **Supabase** b
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## 🧰 &nbsp;Tech Stack
+
+<p align="center"><b>📱 Mobile</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p>
+
+<p align="center"><b>🖥️ Backend &amp; Data</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<p align="center"><b>🌐 Web &amp; 3D</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+</p>
+
+<p align="center"><b>🛠️ Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## 🪐 &nbsp;Tech Orbit
 
 <div align="center">
@@ -175,6 +214,12 @@ Themed community sites with member cards, hidden admin panels and **Supabase** b
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
+
+<h3>💡 Have an idea? Let's turn it into something that feels alive.</h3>
+
+<sub>අදහසක් තියෙනවද? එකට හදමු. 🚀</sub>
+
+<br/><br/>
 
 <a href="{{TIKTOK_URL}}"><img src="./assets/card-tiktok.svg" width="320" alt="TikTok @mathra_quotes_1" /></a>
 <a href="{{WHATSAPP_URL}}"><img src="./assets/card-whatsapp.svg" width="320" alt="WhatsApp 078 375 6055" /></a>
