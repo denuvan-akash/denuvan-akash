@@ -30,18 +30,34 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## 📸 &nbsp;Meet Me
+
+<div align="center">
+
+<img src="./assets/portrait.svg" width="420" alt="Dotted portrait of {{DISPLAY_NAME}}" />
+
+<br/>
+
+### {{DISPLAY_NAME}}
+
+<sub>{{JOB_TITLE}} · Android Developer · {{LOCATION}}</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineer-7c3aed?style=for-the-badge" alt="Role" />
+<img src="https://img.shields.io/badge/Brand-mathra%20Quotes-6d28d9?style=for-the-badge" alt="Brand" />
+<img src="https://img.shields.io/badge/Based%20in-Colombo%2C%20Sri%20Lanka-4c1d95?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Speaks-Sinhala%20%7C%20English-a78bfa?style=for-the-badge" alt="Languages" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## 👨‍💻 &nbsp;About Me
 
-<table>
-<tr>
-<td width="36%" valign="top" align="center">
-
-<img src="./assets/portrait.svg" width="100%" alt="Dotted portrait of {{DISPLAY_NAME}}" />
-
-</td>
-<td width="64%" valign="top">
-
-<img src="./assets/terminal-small.svg" width="100%" alt="Animated terminal" />
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal" />
+</div>
 
 ```kotlin
 object DenuwanAkash {
@@ -64,10 +80,6 @@ object DenuwanAkash {
 > 👋 &nbsp;**Hi, I'm {{DISPLAY_NAME}}** — a **{{JOB_TITLE}}** based in **{{LOCATION}}**. Under the **mathra Quotes** brand I build Android keyboards, WhatsApp bots and 3D web experiences that feel alive.
 
 > 💜 &nbsp;**සිංහලෙන්:** මම දෙනුවන් ආකාශ් — කොළඹ ඉන්න Software Engineer කෙනෙක් සහ Android developer කෙනෙක්. **mathra Quotes** brand එක යටතේ keyboard apps, WhatsApp bots, සහ හැඟීම් ඇති 3D web අත්දැකීම් හදනවා.
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
