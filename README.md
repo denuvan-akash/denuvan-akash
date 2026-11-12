@@ -229,12 +229,12 @@ _No public repositories yet. Your first project will show up here automatically.
 
 ### 💜 *"ඔයාගේ අදහස්, මගේ code එකෙන් ජීවය ගන්නවා."*
 
-<sub>✨ Today's line: **Design with soul, code with heart. 💜**</sub>
+<sub>✨ Today's line: **පොඩි පියවරවල් ගොඩක් එකතු වුණාම ලොකු ගමනක් වෙනවා.**</sub>
 
 </div>
 
 <img src="./assets/footer-wave.svg" width="100%" alt="" />
 
 <div align="center">
-  <sub>Made with ❤️ by <b>Denuwan Akash</b> • <b>mathra Quotes</b> &nbsp;|&nbsp; 🤖 auto-updated 2026-11-11 07:09 (UTC+05:30)</sub>
+  <sub>Made with ❤️ by <b>Denuwan Akash</b> • <b>mathra Quotes</b> &nbsp;|&nbsp; 🤖 auto-updated 2026-11-12 07:19 (UTC+05:30)</sub>
 </div>
